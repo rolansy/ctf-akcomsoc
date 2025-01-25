@@ -12,7 +12,7 @@ document.getElementById('next-button').addEventListener('click', function() {
     const correctClue = 'notjimcarrey'; // Replace with the actual correct clue
 
     if (clueInput === correctClue) {
-        window.location.href = 'nextpage.html'; // Replace with the actual next page URL
+        window.location.href = 'https://tinyurl.com/ethumood'; // Replace with the actual next page URL
     } else {
         window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley';
     }
